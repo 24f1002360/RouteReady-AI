@@ -1,0 +1,113 @@
+date,category,demand,available_stock,incoming_quantity,lead_time_days
+2026-09-25,Packaging,15,95,40,6
+2026-09-26,Packaging,18,95,40,6
+2026-09-27,Packaging,21,95,40,6
+2026-09-28,Packaging,17,95,40,6
+2026-09-29,Packaging,20,95,40,6
+2026-09-30,Packaging,16,95,40,6
+2026-10-01,Packaging,19,95,40,6
+2026-10-02,Packaging,15,95,40,6
+2026-10-03,Packaging,18,95,40,6
+2026-10-04,Packaging,21,95,40,6
+2026-10-05,Packaging,17,95,40,6
+2026-10-06,Packaging,20,95,40,6
+2026-10-07,Packaging,16,95,40,6
+2026-10-08,Packaging,19,95,40,6
+2026-10-09,Packaging,15,95,40,6
+2026-10-10,Packaging,18,95,40,6
+2026-10-11,Packaging,21,95,40,6
+2026-10-12,Packaging,17,95,40,6
+2026-10-13,Packaging,20,95,40,6
+2026-10-14,Packaging,16,95,40,6
+2026-10-15,Packaging,19,95,40,6
+2026-10-16,Packaging,15,95,40,6
+2026-10-17,Packaging,18,95,40,6
+2026-10-18,Packaging,21,95,40,6
+2026-10-19,Packaging,17,95,40,6
+2026-10-20,Packaging,20,95,40,6
+2026-10-21,Packaging,16,95,40,6
+2026-10-22,Packaging,19,95,40,6
+2026-09-25,Labels,11,40,0,5
+2026-09-26,Labels,14,40,0,5
+2026-09-27,Labels,10,40,0,5
+2026-09-28,Labels,13,40,0,5
+2026-09-29,Labels,9,40,0,5
+2026-09-30,Labels,12,40,0,5
+2026-10-01,Labels,15,40,0,5
+2026-10-02,Labels,11,40,0,5
+2026-10-03,Labels,14,40,0,5
+2026-10-04,Labels,10,40,0,5
+2026-10-05,Labels,13,40,0,5
+2026-10-06,Labels,9,40,0,5
+2026-10-07,Labels,12,40,0,5
+2026-10-08,Labels,15,40,0,5
+2026-10-09,Labels,11,40,0,5
+2026-10-10,Labels,14,40,0,5
+2026-10-11,Labels,10,40,0,5
+2026-10-12,Labels,13,40,0,5
+2026-10-13,Labels,9,40,0,5
+2026-10-14,Labels,12,40,0,5
+2026-10-15,Labels,15,40,0,5
+2026-10-16,Labels,11,40,0,5
+2026-10-17,Labels,14,40,0,5
+2026-10-18,Labels,10,40,0,5
+2026-10-19,Labels,13,40,0,5
+2026-10-20,Labels,9,40,0,5
+2026-10-21,Labels,12,40,0,5
+2026-10-22,Labels,15,40,0,5
+2026-09-25,Hygiene Kits,11,140,60,8
+2026-09-26,Hygiene Kits,7,140,60,8
+2026-09-27,Hygiene Kits,10,140,60,8
+2026-09-28,Hygiene Kits,13,140,60,8
+2026-09-29,Hygiene Kits,9,140,60,8
+2026-09-30,Hygiene Kits,12,140,60,8
+2026-10-01,Hygiene Kits,8,140,60,8
+2026-10-02,Hygiene Kits,11,140,60,8
+2026-10-03,Hygiene Kits,7,140,60,8
+2026-10-04,Hygiene Kits,10,140,60,8
+2026-10-05,Hygiene Kits,13,140,60,8
+2026-10-06,Hygiene Kits,9,140,60,8
+2026-10-07,Hygiene Kits,12,140,60,8
+2026-10-08,Hygiene Kits,8,140,60,8
+2026-10-09,Hygiene Kits,11,140,60,8
+2026-10-10,Hygiene Kits,7,140,60,8
+2026-10-11,Hygiene Kits,10,140,60,8
+2026-10-12,Hygiene Kits,13,140,60,8
+2026-10-13,Hygiene Kits,9,140,60,8
+2026-10-14,Hygiene Kits,12,140,60,8
+2026-10-15,Hygiene Kits,8,140,60,8
+2026-10-16,Hygiene Kits,11,140,60,8
+2026-10-17,Hygiene Kits,7,140,60,8
+2026-10-18,Hygiene Kits,10,140,60,8
+2026-10-19,Hygiene Kits,13,140,60,8
+2026-10-20,Hygiene Kits,9,140,60,8
+2026-10-21,Hygiene Kits,12,140,60,8
+2026-10-22,Hygiene Kits,8,140,60,8
+2026-09-25,Protective Gear,18,55,20,7
+2026-09-26,Protective Gear,14,55,20,7
+2026-09-27,Protective Gear,17,55,20,7
+2026-09-28,Protective Gear,13,55,20,7
+2026-09-29,Protective Gear,16,55,20,7
+2026-09-30,Protective Gear,12,55,20,7
+2026-10-01,Protective Gear,15,55,20,7
+2026-10-02,Protective Gear,18,55,20,7
+2026-10-03,Protective Gear,14,55,20,7
+2026-10-04,Protective Gear,17,55,20,7
+2026-10-05,Protective Gear,13,55,20,7
+2026-10-06,Protective Gear,16,55,20,7
+2026-10-07,Protective Gear,12,55,20,7
+2026-10-08,Protective Gear,15,55,20,7
+2026-10-09,Protective Gear,18,55,20,7
+2026-10-10,Protective Gear,14,55,20,7
+2026-10-11,Protective Gear,17,55,20,7
+2026-10-12,Protective Gear,13,55,20,7
+2026-10-13,Protective Gear,16,55,20,7
+2026-10-14,Protective Gear,12,55,20,7
+2026-10-15,Protective Gear,15,55,20,7
+2026-10-16,Protective Gear,18,55,20,7
+2026-10-17,Protective Gear,14,55,20,7
+2026-10-18,Protective Gear,17,55,20,7
+2026-10-19,Protective Gear,13,55,20,7
+2026-10-20,Protective Gear,16,55,20,7
+2026-10-21,Protective Gear,12,55,20,7
+2026-10-22,Protective Gear,15,55,20,7
