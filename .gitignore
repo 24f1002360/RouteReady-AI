@@ -19,3 +19,4 @@ logs/
 .streamlit/secrets.toml
 htmlcov/
 .coverage
+streamlit_test.py
