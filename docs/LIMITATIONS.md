@@ -11,3 +11,10 @@
 - Do not store sensitive military locations, tactical routes, unit movements, deployment schedules, or other operationally sensitive information.
 - No autonomous dispatch, purchasing, or irreversible actions are in scope.
 - Do not claim measured accuracy, cost savings, or delay reduction without documented evaluation.
+
+## Synthetic data limitations
+
+- The inventory dataset is generated from rules and random numbers.
+- It does not represent real demand patterns, seasonality, or supplier behaviour.
+- Results must not be described as validated or representative of real operations.
+- Validation checks data structure and basic value ranges, not real-world accuracy.
