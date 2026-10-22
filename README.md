@@ -40,7 +40,7 @@ TinyFish is a required integration for our hackathon prototype. Search discovers
 - Unit tests for parsing and URL/signal normalization.
 
 ### Planned team modules
-- Synthetic data generation and validation.
+- Synthetic inventory generation, validation and a data loader (`routeready.data`).
 - Demand forecast baseline and stock-coverage calculations.
 - Explainable heuristic risk score.
 - Relevance/freshness mapping from public signals to synthetic scenarios.
@@ -56,7 +56,7 @@ These planned features should be labelled as planned until implemented and verif
 | Prototype UI | Streamlit |
 | HTTP integration | `requests` |
 | Secrets/config | environment variables, `python-dotenv` |
-| Data handling | pandas (planned data module) |
+| Data handling | pandas |
 | Testing | pytest |
 | Public web evidence | TinyFish Search API + TinyFish Fetch API |
 | Planned forecasting | moving-average baseline first; compare ML models only if feasible |
